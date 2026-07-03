@@ -7,7 +7,7 @@ A few things I've done:
 - **[GlioGrade](https://avnithvijayram.com/projects/gliograde)** — a 3D CNN tool that diagnoses gliomas from MRI, used by neuropathologists at three clinics
 - **[Competitive programming](https://avnithvijayram.com/projects/compprog)** — problemsetting and solving across Codeforces, AtCoder, and USACO
 
-See more at **[my website](https://avnithvijayram.com/)**
+See more at **[my website ↗](https://avnithvijayram.com/)**
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:avnith.v@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/avnithv)
