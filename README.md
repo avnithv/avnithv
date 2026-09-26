@@ -1,11 +1,16 @@
 # Avnith Vijayram 🍍
 ### Computational Biology & AI @ Carnegie Mellon
-I focus on ML for medicine and biology, but I build stuff and do competitive programming as well.
+My main focus is research in ML for biology and medicine, particularly drug discovery. I also build side projects and do competitive programming.
 
-A few things I've done:
-- **[Cardiotoxicity](https://avnithvijayram.com/projects/cardiotoxicity)** — identifying genes driving ICI myocarditis using network analysis, game theory, and multi-omics integration (Regeneron STS Top 300)
-- **[GlioGrade](https://avnithvijayram.com/projects/gliograde)** — a 3D CNN tool that diagnoses gliomas from MRI, used by neuropathologists at three clinics
-- **[Competitive programming](https://avnithvijayram.com/projects/compprog)** — problemsetting and solving across Codeforces, AtCoder, and USACO
+Things I've worked on recently:
+- **[Diffusion models ↗](https://github.com/avnithv/cmu-10799-diffusion)** -- training a diffusion model to generate realistic faces, following CMU's 10-799 course. This was my first project in the Koes Lab at the University of Pittsburgh before I moved onto generative models for drug discovery.
+- **[Robot Jousting ↗](https://avnithvijayram.com/blog/robot-jousting/)** -- a turn-based game where players control physical robot arms that fight in front of them
+- **[Cardiotoxicity ↗](https://avnithvijayram.com/projects/cardiotoxicity)** -- identifying genes driving ICI myocarditis using network analysis, game theory, and multi-omics integration. This research was accepted as a poster presentation at AHA Scientific Sessions 2026 and made me a Regeneron STS Top 300 Scholar.
+
+Earlier projects:
+- **[GlioGrade ↗](https://avnithvijayram.com/projects/gliograde)** -- a 3D CNN tool that diagnoses gliomas from MRI, used by neuropathologists at three clinics
+- **[Competitive programming ↗](https://avnithvijayram.com/projects/compprog)** -- problem setting and solving across Codeforces, AtCoder, and USACO
+- **[SelfControl ↗](https://github.com/avnithv/selfcontrol)** -- my fork of SelfControl with some additional features for my own daily use
 
 See more at **[my website ↗](https://avnithvijayram.com/)**
 
